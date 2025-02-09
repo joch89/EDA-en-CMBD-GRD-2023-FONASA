@@ -1,6 +1,6 @@
 # EDA-en-CMBD-GRD-2023-FONASA
 
-Este documento de Colab realiza un análisis exploratorio de datos (EDA) sobre un conjunto de datos de egresos hospitalarios (GRD) del año 2023, obtenidos desde FONASA y con cambio de formato a .txt.  El análisis se divide en tres partes principales.
+Este Colab realiza un análisis exploratorio de datos (EDA) sobre un conjunto de datos de egresos hospitalarios (GRD) del año 2023, obtenidos desde FONASA y con cambio de formato a .txt.  El análisis se divide en tres partes principales.
 
 Dentro del archivo colab se encuentran los links, en google drive, a los archivos principales para ejecutar el código.
 
